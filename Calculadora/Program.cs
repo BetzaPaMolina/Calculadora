@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Elaboracion de una calculadora en equipo
+Console.WriteLine("CALCULADORA");
+
+//Hola, estoy trabajando en RamaBetza
